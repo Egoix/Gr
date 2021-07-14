@@ -1,0 +1,4 @@
+save epochs、SEED psr画PSR图
+Extracted Features对psd数据进行处理
+draw map是画脑电极分布图，但是库中缺失CB1 CB2这两个通道
+两个_svm都是进行分类
